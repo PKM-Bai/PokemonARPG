@@ -1,7 +1,4 @@
 # Pokemon_ARPG
 ## 概述
-此仓库是在B站投稿的https://www.bilibili.com/video/BV1A54y1o7Ro 毕设作品开源项目。
+此仓库是在B站投稿的https://www.bilibili.com/video/BV1A54y1o7Ro 毕设作品Unity游戏项目。
 
-可供有兴趣的朋友们学习，在宝可梦同人游戏开发上出一份力。
-
-### 注意：只能用于学习参考，不可商用，如果有二创作品公开，请在公开信息内添加上本仓库访问的地址，或者通过B站私信联系我，谢谢。
